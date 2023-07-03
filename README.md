@@ -1,2 +1,2 @@
-# projeto-adivinhacao
+# projeto-C-Alura
 Projeto em C  
